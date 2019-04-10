@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TunnelReader.Area">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAggAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Area.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TunnelReader.AreaList">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AreaList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TunnelReader.IDGenerator">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAABAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TunnelReader.InnerTunnel">
+    <Position X="2.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAgAAAAEAAAAAAACAAAAAAAAAAABA=</HashCode>
+      <FileName>InnerTunnel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TunnelReader.InnerTunnelList">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InnerTunnelList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TunnelReader.Program">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TunnelReader.Tunnel">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAEAggAAAAAAIAAQAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Tunnel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TunnelReader.TunnelList">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAMAEghAIAAAAAAAAAAARIAAACAEGBAAUAAAAACAQ=</HashCode>
+      <FileName>TunnelList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TunnelReader.CSVType">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>TunnelList.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
